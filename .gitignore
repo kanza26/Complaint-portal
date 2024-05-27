@@ -1,0 +1,6 @@
+front-end/node_modules/
+server/node_modules/
+node_modules/
+server/Database/
+server/appcontroller/dbconnection.js
+
